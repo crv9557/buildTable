@@ -1,3 +1,6 @@
+<script src=".mountains"></script>
+<script src=".buildTable"></script>
+
 <style>
   /*Defines a cleaner look for tables*/
   table   { border-collapse: collapse;  }
